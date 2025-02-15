@@ -2,7 +2,7 @@
 import { useState , useEffect } from "react"
 import { Button } from "@/components/ui/button"
 import { Card , CardTitle , CardHeader , CardDescription , CardFooter, CardContent } from "@/components/ui/card";
-import { Dialog, DialogTrigger, DialogContent, DialogHeader, DialogTitle, DialogDescription, DialogFooter } from "@/components/ui/dialog";
+
 import {motion , AnimatePresence} from "framer-motion"
 import dynamic from "next/dynamic"
 import {FaBirthdayCake} from 'react-icons/fa'
